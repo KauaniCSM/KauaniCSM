@@ -3,7 +3,7 @@
 
 - 👩‍💻Atualmente estou aprendendo **Power BI**
 
-- 💬 Me pergunte sobre **SQL,Power BI e Excel,**
+- 💬 Me pergunte sobre **SQL,Power BI e Excel**
 
 - 📫 Você me acha **kauani98cs@gmail.com**
 
